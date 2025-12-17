@@ -6,7 +6,8 @@ exploratory analysis, and basic visualisation technique.
 
 ## 🛠 Skills Used
 - Data cleaning
-- Google Sheets / Excel
+- Google Sheets
+- Inbuilt visualisation tools
 
 ## 🔗 Kaggle Notebook
 [View the full Kaggle notebook here](https://www.kaggle.com/code/antonieazor/netflix-movie-and-tv-mini-project)

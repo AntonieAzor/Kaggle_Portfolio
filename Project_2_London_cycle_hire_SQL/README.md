@@ -1,5 +1,5 @@
-🚲 London Cycle Hire — Data Analysis Mini-Project with SQL
-📊 Project Overview
+# 🚲 London Cycle Hire — Data Analysis Mini-Project with SQL
+## 📊 Project Overview
 
 This mini-project explores data from the London Cycle Hire scheme to practise querying, aggregating, and interpreting a real-world public dataset.
 
@@ -11,7 +11,7 @@ writing clean SQL queries
 
 answering practical questions using data
 
-🧠 What I Was Trying to Learn
+## 🧠 What I Was Trying to Learn
 
 This project was completed as part of my ongoing data analytics training, with a focus on strengthening my understanding of:
 
@@ -25,7 +25,7 @@ Ordering and limiting results
 
 Thinking critically about what the results actually mean
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 SQL (BigQuery)
 
@@ -35,7 +35,7 @@ Public open data (London Cycle Hire dataset)
 
 GitHub (project documentation)
 
-🔍 Key Questions Explored
+## 🔍 Key Questions Explored
 
 Some of the questions explored in this project include:
 
@@ -47,7 +47,7 @@ How can aggregation help summarise large volumes of data meaningfully?
 
 What limitations should be considered when interpreting the results?
 
-📈 Approach
+## 📈 Approach
 
 Explored the structure of the dataset and relevant columns
 
@@ -59,23 +59,23 @@ Interpreted results carefully, noting assumptions and limitations
 
 The emphasis throughout was on clarity and correctness, rather than complexity.
 
-🔗 Full Analysis
+## 🔗 Full Analysis
 
 The full SQL analysis, queries, and explanations can be found in the linked Kaggle notebook:
 
-👉 Kaggle Notebook:
+## 👉 Kaggle Notebook:
 https://www.kaggle.com/code/antonieazor/london-cycle-hire-sql-mini-project
 
-🖼 Screenshots
+## 🖼 Screenshots
 
 Screenshots used in this project are hosted in the /screenshots folder of this repository and referenced where appropriate.
 
-📌 Notes
+## 📌 Notes
 
 This project is intentionally scoped as a mini-project.
 It reflects where I am in my learning journey and focuses on building strong fundamentals that I can carry forward into more complex analyses.
 
-🌱 What I’d Improve Next
+## 🌱 What I’d Improve Next
 
 Deeper time-based analysis (monthly / seasonal patterns)
 

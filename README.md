@@ -36,7 +36,7 @@ GitHub
 Markdown
 
 ## Projects:
-1) *Netflix Movies & TV Show Google Sheets Mini-project*
+1) **Netflix Movies & TV Show Google Sheets Mini-project**
 
 What this project is about:
 An exploratory analysis of the Netflix Movies & TV Shows dataset, focusing on understanding the structure of the data, cleaning it effectively, and answering some basic questions about the content available on the platform.
@@ -53,7 +53,7 @@ What I focused on here:
 
 View the full analysis on Kaggle: (https://www.kaggle.com/code/antonieazor/netflix-movie-and-tv-mini-project)
 
-2) *London Cycle Hire - SQL Mini-project*
+2) **London Cycle Hire - SQL Mini-project**
 
 What this project is about:
 Putting into practise all the skills I've gained in SQL environments.

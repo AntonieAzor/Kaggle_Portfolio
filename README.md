@@ -9,6 +9,8 @@ I’m interested in projects where I can combine clear thinking, attention to de
 
 Each project here links to a full Kaggle notebook so you can see how I approached the analysis, not just the final output.
 
+Link to my CV [here](https://github.com/AntonieAzor/Kaggle_Portfolio/raw/73ac09b3537a78e4460d1f3707ac522bb20317db/Antonie%20Azor%20CV%20-%20Data%20Analyst%20Jan%202026.pdf)
+
 ## What I’m Practising & Improving:
 
 Cleaning and preparing messy datasets

@@ -34,23 +34,37 @@ GitHub
 Markdown
 
 ## Projects:
-1) *Netflix Movies & TV Shows — Data Analysis*
+1) *Netflix Movies & TV Show Google Sheets Mini-project*
 
 What this project is about:
 An exploratory analysis of the Netflix Movies & TV Shows dataset, focusing on understanding the structure of the data, cleaning it effectively, and answering some basic questions about the content available on the platform.
 
 What I focused on here:
 
-Inspecting and cleaning the dataset
+- Inspecting and cleaning the dataset
 
-Dealing with missing and inconsistent values
+- Dealing with missing and inconsistent values
 
-Organising analysis steps clearly
+- Organising analysis steps clearly
 
-Documenting decisions as I went
+- Documenting decisions as I went
 
 View the full analysis on Kaggle: (https://www.kaggle.com/code/antonieazor/netflix-movie-and-tv-mini-project)
 
+2) *London Cycle Hire - SQL Mini-project*
+
+What this project is about:
+Putting into practise all the skills I've gained in SQL environments.
+
+- Queried and analysed a large public dataset using SQL (SELECT, WHERE, GROUP BY, HAVING, JOIN).
+
+-  Joined fact and lookup tables to replace IDs with station names and prevent row duplication.
+
+-   Aggregated multi-year hire data to identify busiest stations, seasonal trends, and duration patterns.
+
+-    Documented analysis and insights in a public Kaggle notebook.
+
+View the full analysis on Kaggle: (https://www.kaggle.com/code/antonieazor/london-cycle-hire-sql-mini-project)
 
 ## How This Repo Is Organised:
 
